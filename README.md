@@ -4,6 +4,15 @@ This repo contains code for quantifying and comparing the movement of *Chlamydom
 
 ![Max_R5_24h_label](https://user-images.githubusercontent.com/64554648/184939172-52512740-18e8-43ba-8d1f-cdeebbbdb0f8.png)
 
+## Associated timelapse image data 
+The following Zenodo repositories contain image data associated with the ["Microchamber slide design for cell confinement during imaging"](research.arcadiascience.com/pub/resource-microchamber-slide) pub and the project to [dissect mechanisms of environmental adaptation in protists](https://research.arcadiascience.com/mechanisms-environmental-adaptation-protists).
+
+Colpoda steinii in 384 well or microwells. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10139789.svg)](https://doi.org/10.5281/zenodo.10139789)
+
+Colpoda steinii cyst rotation. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10151314.svg)](https://doi.org/10.5281/zenodo.10151314)
+
+Tetrahymena rostrata. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10138859.svg)](https://doi.org/10.5281/zenodo.10138859)
+
 ## Versions and platforms
 *Fiji macro* was used with ImageJ2 Version: 2.3.0/1.53q Build: d544a3f481
 
